@@ -16,9 +16,9 @@ const ItemCounter = () => {
 
   return (
     <div className='flex'>
-        <button onClick={decrementarContador} className='text-violet-400   border-violet-400 border-solid border-2 p-2 mx-2 rounded-2xl hover:bg-gray-400 hover:text-white hover:border-white'>-</button>
+        <button onClick={decrementarContador} className='text-violet-400 border-violet-400 border-solid border-2 p-2 mx-2 rounded-2xl hover:bg-gray-400 hover:text-white hover:border-white'>-</button>
         <p className='text-'>{counter}</p>
-        <button onClick={incrementarContador} className='text-violet-400   border-violet-400 border-solid border-2 p-2 mx-2 rounded-2xl hover:bg-gray-400 hover:text-white hover:border-white'>+</button>
+        <button onClick={incrementarContador} className='text-violet-400 border-violet-400 border-solid border-2 p-2 mx-2 rounded-2xl hover:bg-gray-400 hover:text-white hover:border-white'>+</button>
     </div>
   )
 }
