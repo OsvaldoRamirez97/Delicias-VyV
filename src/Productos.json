@@ -1,0 +1,320 @@
+[
+  {
+    "id": "1",
+    "name": "Galletitas de azúcar",
+    "image": "https://i.postimg.cc/8P62rPXS/galletitas.jpg",
+    "decription": "Galletitas de masa dulce espolvoreadas con azúcar",
+    "category": "galletitas",
+    "price1": "1100",
+    "price2": "2100"
+  },
+  {
+    "id": "2",
+    "name": "Galletitas de vainilla",
+    "image": "https://i.postimg.cc/mZJxDFwj/galletitasvainilla.jpg",
+    "decription": "Galletitas de masa hecha con vainilla",
+    "category": "galletitas",
+    "price1": "1100",
+    "price2": "2100"
+  },
+  {
+    "id": "3",
+    "name": "Galletitas de chocolate",
+    "image": "https://i.postimg.cc/T1yZ0RRn/galletitaschocolate.jpg",
+    "decription": "Galletitas hechas con masa de chocolate",
+    "category": "galletitas",
+    "price": "1800",
+    "price2": "3500"
+  },
+  {
+    "id": "4",
+    "name": "Galletitas con chips",
+    "image": "https://i.postimg.cc/8P62rPXS/galletitas.jpg",
+    "decription": "Galletitas hechas con masa de vainilla y chips de chocolate",
+    "category": "galletitas",
+    "price1": "15",
+    "price2": ""
+  },
+  {
+    "id": "5",
+    "name": "Galletitas de arándanos",
+    "image": "https://i.postimg.cc/Kzp6tKyZ/galletitasarandanos.jpg",
+    "decription": "Galletitas hechas con masa de vainilla con arándanos",
+    "category": "galletitas",
+    "price1": "1800",
+    "price2": "3500"
+  },
+  {
+    "id": "6",
+    "name": "Galletitas pepas",
+    "image": "https://i.postimg.cc/nhZnFDF5/pepas.jpg",
+    "decription": "Galletitas hechas con masa de vainilla con membrillo",
+    "category": "galletitas",
+    "price1": "1300",
+    "price2": "2500"
+  },
+  {
+    "id": "7",
+    "name": "Galletitas de limón",
+    "image": "https://i.postimg.cc/85c3k1fx/galletitaslimon.jpg",
+    "decription": "Galletitas hechas con masa de limón",
+    "category": "galletitas",
+    "price1": "1800",
+    "price2": "3500"
+  },
+  {
+    "id": "8",
+    "name": "Galletitas de jengibre",
+    "image": "https://i.postimg.cc/Jn9W9yYp/galletitasjengibre.jpg",
+    "decription": "Galletitas hechas con masa de jengibre",
+    "category": "galletitas",
+    "price1": "1500",
+    "price2": "2900"
+  },
+  {
+    "id": "9",
+    "name": "Budín de limón",
+    "image": "https://i.postimg.cc/MHv8L7YM/budinlimon.jpg",
+    "decription": "Budín con base de limón, se le puede agregar glaseado",
+    "category": "budin",
+    "price1": "1200",
+    "price2": "2200"
+  },
+  {
+    "id": "10",
+    "name": "Budín de naranja",
+    "image": "https://i.postimg.cc/HkQ1Fsb2/budindenaranja.jpg",
+    "decription": "Budín con base de naranja, se le puede agregar glaseado",
+    "category": "budin",
+    "price1": "1200",
+    "price2": "2299"
+  },
+  {
+    "id": "11",
+    "name": "Budín de banana",
+    "image": "https://i.postimg.cc/g0Wm06GQ/budinbanana.jpg",
+    "decription": "Budín con base de banana",
+    "category": "budin",
+    "price1": "1200",
+    "price2": "200"
+  },
+  {
+    "id": "12",
+    "name": "Budín de arándanos",
+    "image": "https://i.postimg.cc/vmtMxHBB/budinarandanos.jpg",
+    "decription": "Budín con base de arándanos",
+    "category": "budin",
+    "price1": "1300",
+    "price2": "2300"
+  },
+  {
+    "id": "13",
+    "name": "Budín de zanahoria",
+    "image": "https://i.postimg.cc/Xv46WS80/budinzanahoria.jpg",
+    "decription": "Budín con base de zanahoria, se le puede agregar glaseado",
+    "category": "budin",
+    "price1": "1200",
+    "price2": "2200"
+  },
+  {
+    "id": "14",
+    "name": "Budín marmolado",
+    "image": "https://i.postimg.cc/13xZWNVX/budinmarmolado.jpg",
+    "decription": "Budín de vainilla mezaclado con budín de chocolate",
+    "category": "budin",
+    "price1": "1200",
+    "price2": "2200"
+  },
+  {
+    "id": "15",
+    "name": "Budín de vainilla",
+    "image": "https://i.postimg.cc/RVJBQTF2/budinvainilla.jpg",
+    "decription": "Budín con base de vainilla",
+    "category": "budin",
+    "price1": "1100",
+    "price2": "1900"
+  },
+  {
+    "id": "16",
+    "name": "Budín de chocolate",
+    "image": "https://i.postimg.cc/4NvTSx61/budinchocolate.jpg",
+    "decription": "Budín con base de chocolate",
+    "category": "budin",
+    "price1": "1500",
+    "price2": "2500"
+  },
+  {
+    "id": "17",
+    "name": "Budín inglés",
+    "image": "https://i.postimg.cc/1RjSqd9p/budiningles.jpg",
+    "decription": "Budín con base de vainilla y con frustos secos, se le puede agregar glaseado",
+    "category": "budin",
+    "price1": "1600",
+    "price2": "2600"
+  },
+  {
+    "id": "18",
+    "name": "Pasta Frola de membrillo",
+    "image": "https://i.postimg.cc/MTLLvhyH/pastafrolabatata.jpg",
+    "decription": "Pasta frola de con relleno de membrillo",
+    "category": "pastaFrola",
+    "price1": "500",
+    "price": "3500"
+  },
+  {
+    "id": "19",
+    "name": "Pasta Frola de dulce de batata",
+    "image": "https://i.postimg.cc/MTLLvhyH/pastafrolabatata.jpg",
+    "decription": "Pasta frola de con relleno de dulce de batata",
+    "category": "pastaFrola",
+    "price1": "500",
+    "price": "3500"
+  },
+  {
+    "id": "20",
+    "name": "Pasta Frola de dulce de leche",
+    "image": "https://i.postimg.cc/5tnTMHyw/pastafroladulcedeleche.jpg",
+    "decription": "Pasta frola de con relleno de dulce de leche",
+    "category": "pastaFrola",
+    "price1": "400",
+    "price": "3000"
+  },
+  {
+    "id": "21",
+    "name": "Lemon pie",
+    "image": "https://i.postimg.cc/T3vZjMBW/lemonpie.jpg",
+    "decription": "Base de masa quebrada con relleno de limón y topping de merengue",
+    "category": "tartas",
+    "pice1": "500",
+    "price2": "3500"
+  },
+  {
+    "id": "22",
+    "name": "Tarta de manzana",
+    "image": "https://i.postimg.cc/qM2kHLTy/tartamanzana.jpg",
+    "decription": "Tarta a base manzana con caramelo",
+    "category": "tartas",
+    "pice1": "500",
+    "price2": "3500"
+  },
+  {
+    "id": "23",
+    "name": "Tarta crumble",
+    "image": "https://i.postimg.cc/jC0khP3r/tartacrumble.jpg",
+    "decription": "Tarta con base de manteca harina y azúcar, rellena con frutas",
+    "category": "tartas",
+    "pice1": "400",
+    "price2": "3000"
+  },
+  {
+    "id": "24",
+    "name": "Torta invertida",
+    "image": "https://i.postimg.cc/QMYDJYQG/tortainvertida.jpg",
+    "decription": "Torta de presentación invertida a base de frutras",
+    "category": "tortas",
+    "price": "2000"
+  },
+  {
+    "id": "25",
+    "name": "Torta de zanahoria",
+    "image": "https://i.postimg.cc/BQf0pKK6/tortazanahoria.jpg",
+    "decription": "Torta a base de zanahorias, se le puede agregar glaseado",
+    "category": "tortas",
+    "price": "2000"
+  },
+  {
+    "id": "26",
+    "name": "Torta de arándanos",
+    "image": "https://i.postimg.cc/vmtMxHBB/budinarandanos.jpg",
+    "decription": "Torta a base de arándanos",
+    "category": "tortas",
+    "price": "2400"
+  },
+  {
+    "id": "27",
+    "name": "Torta de ricotta",
+    "image": "https://i.postimg.cc/BbHGsqd4/tortaricotta.jpg",
+    "decription": "Torta con relleno de ricotta",
+    "category": "tortas",
+    "price": "2400"
+  },
+  {
+    "id": "28",
+    "name": "Torta de ricotta y frutos",
+    "image": "https://i.postimg.cc/BbHGsqd4/tortaricotta.jpg",
+    "decription": "Torta con relleno de ricotta y frutas",
+    "category": "tortas",
+    "price": "2800"
+  },
+  {
+    "id": "29",
+    "name": "Brownie",
+    "decription": "Torta a base de chocolate de textura húmeda",
+    "image": "https://i.postimg.cc/kGzdP2jj/brownie.webp",
+    "category": "tortas",
+    "price": "2500"
+  },
+  {
+    "id": "30",
+    "name": "Cupcakes",
+    "decription": "Pastelitos con saber a vainilla, se le puede agregar algún relleno",
+    "category": "productosPorUnidad",
+    "image": "https://i.postimg.cc/FRKtfy8W/cupcakes.jpg",
+    "price1": "3000",
+    "price2": "5500"
+  },
+  {
+    "id": "31",
+    "name": "Miguelitos",
+    "image": "https://i.postimg.cc/wB6ZP5qq/miguelitos.jpg",
+    "decription": "Masa de pan de leche con relleno de dulce leche o crema pastelera",
+    "category": "productosPorUnidad",
+    "price1": "2600",
+    "price2": "5000"
+  },
+  {
+    "id": "32",
+    "name": "Bolas de fraile",
+    "image": "https://i.postimg.cc/VL2z3VpY/bolasfraile.jpg",
+    "decription": "Masa frita dulce con relleno de dulce de leche o crema pastelera",
+    "category": "productosPorUnidad",
+    "price1": "3000",
+    "price2": "5500"
+  },
+  {
+    "id": "33",
+    "name": "Alfajores",
+    "decription": "Base de galleta con distintos tipos de relleno y cubiertas",
+    "category": "productosPorUnidad",
+    "image": "https://i.postimg.cc/m2PbpsdX/alfajores.jpg",
+    "price1": "1300",
+    "price2": "2200"
+  },
+  {
+    "id": "34",
+    "name": "Rollos de canela",
+    "image": "https://i.postimg.cc/j5Wbg6cW/rolls.jpg",
+    "decription": "Masa dulce enrollada con un relleno de canela y azúcar",
+    "category": "productosPorUnidad",
+    "price1": "2600",
+    "price2": "5000"
+  },
+  {
+    "id": "34",
+    "name": "Bombones",
+    "image": "https://i.postimg.cc/6pRBwhxC/bombones.jpg",
+    "decription": "Chocolates rellenos con dulce de leche o pasta a base frutas",
+    "category": "caja",
+    "price1": "1500",
+    "price2": "2500"
+  },
+  {
+    "id": "34",
+    "name": "Chocolates",
+    "image": "https://i.postimg.cc/ZqHtK77v/chocolate.jpg",
+    "decription": "Chocolate hecho de forma casera",
+    "category": "caja",
+    "price1": "1500",
+    "price2": "2500"
+  }
+]
